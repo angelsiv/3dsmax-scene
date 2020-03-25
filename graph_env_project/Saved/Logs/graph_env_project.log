@@ -563,3 +563,168 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2020.03.25-13.00.16:207][  8]LogAssetRegistry: Asset discovery search completed in 4.5089 seconds
 [2020.03.25-13.00.16:209][  8]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000000 seconds (found 0 objects)
 [2020.03.25-13.00.16:209][  8]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000036 seconds (updated 0 objects)
+[2020.03.25-13.06.20:536][963]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.06.44:154][771]LogSlate: Took 0.000169 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2020.03.25-13.06.44:161][771]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainScene.MainScene
+[2020.03.25-13.06.44:186][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.16ms
+[2020.03.25-13.06.47:552][771]LogSlate: Window 'Save Content' being destroyed
+[2020.03.25-13.06.47:558][771]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainScene" FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-13.06.47:586][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.25-13.06.47:597][771]LogSavePackage: Moving 'B:/3dsMax/3dsmax-scene/graph_env_project/Saved/MainSceneCC0123FB44A07710EB5058993CB4031D.tmp' to 'B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap'
+[2020.03.25-13.06.47:602][771]LogFileHelpers: Saving map 'MainScene' took 0.044
+[2020.03.25-13.06.47:603][771]Cmd: MAP LOAD FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-13.06.47:604][771]LightingResults: New page: Lighting Build
+[2020.03.25-13.06.47:604][771]LoadErrors: New page: Loading map: MainScene.umap
+[2020.03.25-13.06.47:606][771]MapCheck: New page: Map Check
+[2020.03.25-13.06.47:606][771]LightingResults: New page: Lighting Build
+[2020.03.25-13.06.47:632][771]LogUObjectHash: Compacting FUObjectHashTables data took   1.43ms
+[2020.03.25-13.06.47:670][771]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-13.06.47:670][771]LogAIModule: Creating AISystem for world MainScene
+[2020.03.25-13.06.47:690][771]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2020.03.25-13.06.47:704][771]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-13.06.47:704][771]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.056ms to complete.
+[2020.03.25-13.06.47:705][771]LogFileHelpers: Loading map 'MainScene' took 0.102
+[2020.03.25-13.07.00:142][135]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2020.03.25-13.08.24:492][137]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2020.03.25-13.08.32:019][ 20]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.25-13.08.32:024][ 20]LogSlate: Window 'Project Settings' being destroyed
+[2020.03.25-13.08.41:716][175]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.08.57:465][ 55]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.08.59:649][317]LogEditorViewport: Clicking on Actor (LMB): SkyLight (SkyLight)
+[2020.03.25-13.09.10:138][569]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.09.16:210][289]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainScene.MainScene
+[2020.03.25-13.09.16:232][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2020.03.25-13.09.17:806][289]LogSlate: Window 'Save Content' being destroyed
+[2020.03.25-13.09.17:812][289]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainScene" FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-13.09.17:838][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2020.03.25-13.09.17:904][289]LogSavePackage: Moving 'B:/3dsMax/3dsmax-scene/graph_env_project/Saved/MainSceneE302E71E4E0211D12D82EF8C581596FE.tmp' to 'B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap'
+[2020.03.25-13.09.17:913][289]LogFileHelpers: Saving map 'MainScene' took 0.102
+[2020.03.25-13.09.17:915][289]Cmd: MAP LOAD FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-13.09.17:915][289]LightingResults: New page: Lighting Build
+[2020.03.25-13.09.17:916][289]LoadErrors: New page: Loading map: MainScene.umap
+[2020.03.25-13.09.17:916][289]MapCheck: New page: Map Check
+[2020.03.25-13.09.17:916][289]LightingResults: New page: Lighting Build
+[2020.03.25-13.09.17:943][289]LogUObjectHash: Compacting FUObjectHashTables data took   1.51ms
+[2020.03.25-13.09.17:946][289]LogAIModule: Creating AISystem for world MainScene
+[2020.03.25-13.09.17:995][289]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-13.09.18:019][289]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.03.25-13.09.18:028][289]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-13.09.18:028][289]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2020.03.25-13.09.18:029][289]LogFileHelpers: Loading map 'MainScene' took 0.114
+[2020.03.25-13.09.18:785][373]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.25-13.09.18:808][373]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.25-13.09.18:831][373]LogUObjectHash: Compacting FUObjectHashTables data took   0.99ms
+[2020.03.25-13.09.18:831][373]Cmd: MAP LOAD FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-13.09.18:831][373]LightingResults: New page: Lighting Build
+[2020.03.25-13.09.18:832][373]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.03.25-13.09.18:832][373]MapCheck: New page: Map Check
+[2020.03.25-13.09.18:832][373]LightingResults: New page: Lighting Build
+[2020.03.25-13.09.18:857][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.03.25-13.09.18:952][373]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-13.09.18:976][373]LogUObjectHash: Compacting FUObjectHashTables data took   1.34ms
+[2020.03.25-13.09.18:981][373]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-13.09.18:981][373]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.05ms to complete.
+[2020.03.25-13.09.18:981][373]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.151
+[2020.03.25-13.09.23:745][939]LogSlate: Took 0.002677 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2020.03.25-13.09.26:470][263]LogAIModule: Creating AISystem for world MainScene
+[2020.03.25-13.09.26:472][263]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainScene.MainScene
+[2020.03.25-13.09.26:494][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.50ms
+[2020.03.25-13.09.26:495][263]Cmd: MAP LOAD FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-13.09.26:495][263]LightingResults: New page: Lighting Build
+[2020.03.25-13.09.26:495][263]LoadErrors: New page: Loading map: MainScene.umap
+[2020.03.25-13.09.26:496][263]MapCheck: New page: Map Check
+[2020.03.25-13.09.26:496][263]LightingResults: New page: Lighting Build
+[2020.03.25-13.09.26:520][263]LogUObjectHash: Compacting FUObjectHashTables data took   1.36ms
+[2020.03.25-13.09.26:589][263]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-13.09.26:610][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2020.03.25-13.09.26:615][263]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-13.09.26:616][263]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.06ms to complete.
+[2020.03.25-13.09.26:616][263]LogFileHelpers: Loading map 'MainScene' took 0.121
+[2020.03.25-13.09.59:967][228]Cmd: BRUSH ADD SELECTNEWBRUSH
+[2020.03.25-13.10.04:057][713]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.10.05:464][879]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.25-13.10.05:488][879]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.25-13.10.05:510][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2020.03.25-13.10.07:751][879]LogSlate: Window 'Save Content' being destroyed
+[2020.03.25-13.10.07:757][879]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainScene" FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-13.10.07:784][879]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.25-13.10.07:853][879]LogSavePackage: Moving 'B:/3dsMax/3dsmax-scene/graph_env_project/Saved/MainSceneB44A8CCE4416C48A430EE58BBB55BCB8.tmp' to 'B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap'
+[2020.03.25-13.10.07:861][879]LogFileHelpers: Saving map 'MainScene' took 0.105
+[2020.03.25-13.10.07:862][879]Cmd: MAP LOAD FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-13.10.07:862][879]LightingResults: New page: Lighting Build
+[2020.03.25-13.10.07:863][879]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.03.25-13.10.07:863][879]MapCheck: New page: Map Check
+[2020.03.25-13.10.07:863][879]LightingResults: New page: Lighting Build
+[2020.03.25-13.10.07:889][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.54ms
+[2020.03.25-13.10.08:031][879]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-13.10.08:055][879]LogUObjectHash: Compacting FUObjectHashTables data took   1.31ms
+[2020.03.25-13.10.08:061][879]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-13.10.08:061][879]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.054ms to complete.
+[2020.03.25-13.10.08:061][879]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.199
+[2020.03.25-13.10.08:079][879]LogAIModule: Creating AISystem for world MainScene
+[2020.03.25-13.10.13:779][554]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.10.14:246][609]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainScene.MainScene
+[2020.03.25-13.10.14:271][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2020.03.25-13.10.14:272][609]Cmd: MAP LOAD FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-13.10.14:272][609]LightingResults: New page: Lighting Build
+[2020.03.25-13.10.14:273][609]LoadErrors: New page: Loading map: MainScene.umap
+[2020.03.25-13.10.14:273][609]MapCheck: New page: Map Check
+[2020.03.25-13.10.14:273][609]LightingResults: New page: Lighting Build
+[2020.03.25-13.10.14:298][609]LogUObjectHash: Compacting FUObjectHashTables data took   1.52ms
+[2020.03.25-13.10.14:391][609]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-13.10.14:413][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.78ms
+[2020.03.25-13.10.14:419][609]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-13.10.14:419][609]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.05ms to complete.
+[2020.03.25-13.10.14:420][609]LogFileHelpers: Loading map 'MainScene' took 0.149
+[2020.03.25-13.10.16:542][859]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.10.30:175][474]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.11.04:050][507]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.11.08:693][ 61]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.11.13:361][609]Cmd: TRANSACTION UNDO
+[2020.03.25-13.11.13:361][609]LogEditorTransaction: Undo Edit Horizon Falloff
+[2020.03.25-13.11.15:333][842]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainScene" FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-13.11.15:396][842]LogUObjectHash: Compacting FUObjectHashTables data took   1.21ms
+[2020.03.25-13.11.15:466][842]LogSavePackage: Moving 'B:/3dsMax/3dsmax-scene/graph_env_project/Saved/MainScene7725F4BE4A0D86A3C59A7CB6E2624E82.tmp' to 'B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap'
+[2020.03.25-13.11.20:112][385]Cmd: DELETE
+[2020.03.25-13.11.20:112][385]Cmd: ACTOR DELETE
+[2020.03.25-13.11.20:116][385]LogEditorActor: Deleted Actor: Brush
+[2020.03.25-13.11.20:152][385]LogUObjectHash: Compacting FUObjectHashTables data took   1.46ms
+[2020.03.25-13.11.20:153][385]LogEditorActor: Deleted 1 Actors (0.039 secs)
+[2020.03.25-13.11.22:643][684]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2020.03.25-13.11.22:861][709]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainScene" FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-13.11.22:885][709]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2020.03.25-13.11.22:954][709]LogSavePackage: Moving 'B:/3dsMax/3dsmax-scene/graph_env_project/Saved/MainSceneC46F72C9437D8D85E42CDCA6D25DC80C.tmp' to 'B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap'
+[2020.03.25-13.11.30:839][645]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainScene" FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-13.11.30:877][645]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2020.03.25-13.11.30:948][645]LogSavePackage: Moving 'B:/3dsMax/3dsmax-scene/graph_env_project/Saved/MainScene79B7458040F5E4F7F0E799A9B3A09DD2.tmp' to 'B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap'
+[2020.03.25-13.11.31:642][721]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2020.03.25-13.11.31:668][721]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2020.03.25-13.11.31:691][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2020.03.25-13.11.31:691][721]Cmd: MAP LOAD FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-13.11.31:691][721]LightingResults: New page: Lighting Build
+[2020.03.25-13.11.31:692][721]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2020.03.25-13.11.31:692][721]MapCheck: New page: Map Check
+[2020.03.25-13.11.31:692][721]LightingResults: New page: Lighting Build
+[2020.03.25-13.11.31:715][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.26ms
+[2020.03.25-13.11.31:892][721]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-13.11.31:915][721]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2020.03.25-13.11.31:921][721]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-13.11.31:921][721]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.057ms to complete.
+[2020.03.25-13.11.31:922][721]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.231
+[2020.03.25-13.11.45:127][299]LogAIModule: Creating AISystem for world MainScene
+[2020.03.25-13.11.45:129][299]LogAssetEditorManager: Opening Asset editor for World /Game/ThirdPersonBP/Maps/MainScene.MainScene
+[2020.03.25-13.11.45:154][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.14ms
+[2020.03.25-13.11.45:155][299]Cmd: MAP LOAD FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2020.03.25-13.11.45:155][299]LightingResults: New page: Lighting Build
+[2020.03.25-13.11.45:155][299]LoadErrors: New page: Loading map: MainScene.umap
+[2020.03.25-13.11.45:156][299]MapCheck: New page: Map Check
+[2020.03.25-13.11.45:156][299]LightingResults: New page: Lighting Build
+[2020.03.25-13.11.45:181][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.41ms
+[2020.03.25-13.11.45:299][299]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2020.03.25-13.11.45:320][299]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2020.03.25-13.11.45:325][299]Cmd: MAP CHECKDEP NOCLEARLOG
+[2020.03.25-13.11.45:326][299]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.047ms to complete.
+[2020.03.25-13.11.45:326][299]LogFileHelpers: Loading map 'MainScene' took 0.172
+[2020.03.25-13.11.52:193][115]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/ThirdPersonBP/Maps/MainScene" FILE="B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2020.03.25-13.11.52:219][115]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2020.03.25-13.11.52:290][115]LogSavePackage: Moving 'B:/3dsMax/3dsmax-scene/graph_env_project/Saved/MainSceneC16965F24C6EC0C0F745648E20873EBA.tmp' to 'B:/3dsMax/3dsmax-scene/graph_env_project/Content/ThirdPersonBP/Maps/MainScene.umap'
