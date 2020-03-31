@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "graph_env_scene",
+			"Path": "B:\\3dsMax\\3dsmax-scene\\graph_env_scene\\Source\\graph_env_scene.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "graph_env_sceneEditor",
+			"Path": "B:\\3dsMax\\3dsmax-scene\\graph_env_scene\\Source\\graph_env_sceneEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
